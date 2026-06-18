@@ -2,15 +2,12 @@
 
 A sophisticated Power BI dashboard designed to provide comprehensive insights into human resources data, focusing on employee promotion readiness, retirement/redundancy pipelines, and active workforce tracking.
 
-## [> Click here to View and Interact with the Dashboard (pbix file) <](https://github.com/aleksap430/Employee-Analytics-PowerBI-Dashboard/blob/main/HR%20Analytics%20Data.pbix)
-
+## [> Click here to View and Interact with the Dashboard (pbix file) <](https://github.com/aleksap430/Employee-Analytics-PowerBI-Dashboard/raw/refs/heads/main/HR.pbix)
 *(Note: To view and interact with the full dashboard, you need to download and open the `.pbix` file in Power BI Desktop.)*
 
 ### Project Preview
 
-![Dashboard Preview](https://github.com/aleksap430/Employee-Analytics-PowerBI-Dashboard/raw/main/image.png)
-
-### Key Features
+![Dashboard Preview](https://github.com/aleksap430/Employee-Analytics-PowerBI-Dashboard/blob/main/Employee%20Dashboard.png?raw=true)
 
 * **Interactive Navigation UI:** Custom-designed vertical navigation bar for seamless movement between different analytical views.
 * **Promotion Readiness Tracking:** Dynamically identifies and lists employees eligible for promotion based on time elapsed since their last advancement.
